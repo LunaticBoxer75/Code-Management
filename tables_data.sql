@@ -22,6 +22,7 @@ INSERT INTO Tag(Name) VALUES ("c++"),
 							 ("OS"),
 							 ("sql");
 
+
 INSERT INTO Course VALUES ("CS203","This course introduces you to some common data structures and algorithms used in programming","Data Structures and Algorithms"),
 						  ("CS207","This course explains how the concept of a database system has developed, what the common features of database systems are, what a database system does for the user ","Database and Information Systems"),
 						  ("CS204"," This course covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming.","Design and Analysis of Algorithms"),
